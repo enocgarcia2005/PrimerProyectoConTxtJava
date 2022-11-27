@@ -1,0 +1,2 @@
+Nelson Antonio,Mendez,Meneses,Ventas,4.0,Contratado,1100.0,88.0,5,192.5,1270.5
+Enoc Nehemias,Garcia,Alcantara,Planificacion,12,Estable,12000.0,1080.0,7,2100.0,11365.0
